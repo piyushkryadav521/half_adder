@@ -24,6 +24,7 @@ Tools Used:
 * Icarus Verilog
 * GTKWave
 * Quartus prime
+* VS-Code
 
 Compilation Command:
 ```bash

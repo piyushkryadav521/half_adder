@@ -23,6 +23,7 @@ This project implements a Half Adder using Verilog HDL. A Half Adder is a combin
 Tools Used:
 * Icarus Verilog
 * GTKWave
+* Quartus prime
 
 Compilation Command:
 ```bash
@@ -40,11 +41,9 @@ gtkwave half_adder.vcd
 ```
 
 ## Results
-
 The simulation results match the Half Adder truth table. The generated waveform verifies the correct operation of the Sum and Carry outputs for all input combinations.
 
 ## Learning Outcomes
-
 * Understanding combinational logic design.
 * Writing RTL code in Verilog.
 * Creating and running testbenches.
@@ -52,13 +51,11 @@ The simulation results match the Half Adder truth table. The generated waveform 
 * Learning the initial stages of the Frontend VLSI design flow.
 
 ## Future Work
-
 * Design and verify a Full Adder.
 * Implement a 4-bit Ripple Carry Adder.
 * Explore synthesis using Yosys.
 * Study timing analysis and digital design optimization.
 
 ## Author
-
 Piyush Kumar Yadav
  (Frontend VLSI Learning Project)
